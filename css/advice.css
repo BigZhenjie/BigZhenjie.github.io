@@ -14,7 +14,7 @@ body {
 background-color: #d0d0d0 !important;
 }
 .nav-item-active {
-font-family: 'Work Sans';
+font-family: 'Work Sans' !important;
 font-style: normal;
 font-weight: 400;
 color: white !important;
@@ -23,7 +23,7 @@ right: 20%;
 }
 
 .nav-item-dropdown {
-font-family: 'Work Sans';
+font-family: 'Work Sans' !important;
 font-style: normal;
 font-weight: 400;
 color: white !important;
@@ -32,7 +32,7 @@ right: 12.5%;
 }
 
 .nav-item {
-font-family: 'Work Sans';
+font-family: 'Work Sans' !important;
 font-style: normal;
 font-weight: 400;
 color: white !important;
@@ -62,7 +62,7 @@ margin-top: 2%;
 
 
 .subject-heading {
-    font-family: "Work Sans";
+    font-family: "Work Sans" !important;
     color:white;
     display:block;
     font-size: 50px;
